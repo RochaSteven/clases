@@ -1,0 +1,13 @@
+C:\Users\Hogar\Documents\Programacion visual\Empresa\ConsoleEmpresa\bin\Debug\netcoreapp3.1\ConsoleEmpresa.exe
+C:\Users\Hogar\Documents\Programacion visual\Empresa\ConsoleEmpresa\bin\Debug\netcoreapp3.1\ConsoleEmpresa.deps.json
+C:\Users\Hogar\Documents\Programacion visual\Empresa\ConsoleEmpresa\bin\Debug\netcoreapp3.1\ConsoleEmpresa.runtimeconfig.json
+C:\Users\Hogar\Documents\Programacion visual\Empresa\ConsoleEmpresa\bin\Debug\netcoreapp3.1\ConsoleEmpresa.runtimeconfig.dev.json
+C:\Users\Hogar\Documents\Programacion visual\Empresa\ConsoleEmpresa\bin\Debug\netcoreapp3.1\ConsoleEmpresa.dll
+C:\Users\Hogar\Documents\Programacion visual\Empresa\ConsoleEmpresa\bin\Debug\netcoreapp3.1\ConsoleEmpresa.pdb
+C:\Users\Hogar\Documents\Programacion visual\Empresa\ConsoleEmpresa\obj\Debug\netcoreapp3.1\ConsoleEmpresa.csprojAssemblyReference.cache
+C:\Users\Hogar\Documents\Programacion visual\Empresa\ConsoleEmpresa\obj\Debug\netcoreapp3.1\ConsoleEmpresa.AssemblyInfoInputs.cache
+C:\Users\Hogar\Documents\Programacion visual\Empresa\ConsoleEmpresa\obj\Debug\netcoreapp3.1\ConsoleEmpresa.AssemblyInfo.cs
+C:\Users\Hogar\Documents\Programacion visual\Empresa\ConsoleEmpresa\obj\Debug\netcoreapp3.1\ConsoleEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\Hogar\Documents\Programacion visual\Empresa\ConsoleEmpresa\obj\Debug\netcoreapp3.1\ConsoleEmpresa.dll
+C:\Users\Hogar\Documents\Programacion visual\Empresa\ConsoleEmpresa\obj\Debug\netcoreapp3.1\ConsoleEmpresa.pdb
+C:\Users\Hogar\Documents\Programacion visual\Empresa\ConsoleEmpresa\obj\Debug\netcoreapp3.1\ConsoleEmpresa.genruntimeconfig.cache
